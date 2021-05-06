@@ -128,5 +128,4 @@ git clone https://github.com/CoderAcademyEdu/coder-academy-admissions-test.git
 
 Coding at home is hard. If you get stuck at any point and a quick google search is not helping you out, please don’t hesitate to make contact and get a nudge in the right direction.
 
-Email: elizabeth.lee-finkelstein@coderacademy.edu.au
-Email: tayla.turcinovic@coderacademy.edu.au 
+Email: admissions@ait.edu.au
